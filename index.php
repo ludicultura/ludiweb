@@ -119,26 +119,13 @@ elseif(isset($_GET['page'])){
 		include('vistas/modulos/.php');
 		break;
 
-		case '4':
-		//
-		include('vistas/modulos/.php');
-		break;
-
-		case '5':
-		//B
-		include('vistas/modulos/.php');
-		break;
-
-		case '6':
-		//
-		include('vistas/modulos/.php');
-		break;
-
+		
 
 	}
 }
 else{
 	include('vistas/modulos/login.php');
+	
 
 }
 
