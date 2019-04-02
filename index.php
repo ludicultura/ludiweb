@@ -95,6 +95,7 @@ session_start();
 
 <body>
     <?php
+	include('vistas/modulos/barra.php');
 
 if(isset($_GET['id'])){
 	
@@ -102,11 +103,13 @@ if(isset($_GET['id'])){
 
 elseif(isset($_GET['page'])){
 
+	
+
 	switch($_GET['page']){
 
 		case '1':
 		//formulario de pueba
-		include('vistas/modulos/formularioPrueba.php');
+		include('vistas/modulos/galeria.php');
 		break;
 
 		case '2':
@@ -124,8 +127,9 @@ elseif(isset($_GET['page'])){
 	}
 }
 else{
-	include('vistas/modulos/login.php');
 	
+	include('vistas/modulos/home.php');
+	include('vistas/modulos/somos.php');
 
 }
 
