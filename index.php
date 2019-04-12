@@ -16,7 +16,7 @@ session_start();
 
     <meta name="keyword" content="">
 
-    <title>Ludi Os</title>
+    <title>Ludi Web</title>
     <link rel="icon" type="image/png" id="dinamico" href="vistas/img/elfavicon/favnar.png" />
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
