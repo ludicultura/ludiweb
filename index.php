@@ -130,6 +130,9 @@ else{
 	
 	include('vistas/modulos/home.php');
 	include('vistas/modulos/somos.php');
+	include('vistas/modulos/novelas.php');
+	include('vistas/modulos/galeria.php');
+	include('vistas/modulos/contacto.php');
 
 }
 
