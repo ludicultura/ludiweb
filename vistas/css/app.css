@@ -14,6 +14,36 @@
   width: 100vw;
   background-color: blue; }
 
+.imgPerfil {
+  height: 100px;
+  margin: 15px; }
+
+.zonaImg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; }
+
+.imgs {
+  width: 300px;
+  height: 500px;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap; }
+
+.zonaTexto {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.texto {
+  width: 500px;
+  height: 500px;
+  align-items: center;
+  display: flex;
+  text-align: justify;
+  color: white; }
+
 .btn {
   background-color: blue; }
 
