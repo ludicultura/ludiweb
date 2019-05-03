@@ -44,7 +44,42 @@
   text-align: justify;
   color: white; }
 
-.btn {
-  background-color: blue; }
+.galeria {
+  height: 100vh;
+  width: 100vw;
+  background-color: yellow; }
+
+.titulo {
+  text-align: center; }
+
+.cardProyecto {
+  width: 400px;
+  height: 250px;
+  background-color: white;
+  border-radius: 35px; }
+
+.barritaCard {
+  background-color: orange;
+  width: 100%;
+  height: 50px;
+  margin-top: -40px; }
+
+.imgProyecto {
+  height: 120px;
+  margin-left: 140px;
+  margin-top: -50px; }
+
+.textoCard {
+  margin: 25px;
+  text-align: justify; }
+
+.contenedorCards {
+  margin-top: 80px;
+  margin-bottom: 50px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; }
 
 /*# sourceMappingURL=app.css.map */
