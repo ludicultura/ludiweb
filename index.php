@@ -51,32 +51,32 @@ session_start();
 
 			case '1':
 			//Registro
-			include('controladores/controlador.formularioPrueba.php');
+			include('controladores/controlador.impacto.php');
 			break;
 
 			case '2':
 			//Perfil
-			include('controladores/controlador. .php');
+			include('controladores/controlador.programas.php');
 			break;
 
 			case '3':
 			//Nueva publicación
-			include('controladores/controlador. .php');
+			include('controladores/controlador.nosotros.php');
 			break;
 
 			case '4':
 			//Publicación
-			include('controladores/controlador. .php');
+			include('controladores/controlador.dona.php');
 			break;
 
 			case '5':
 			//Buscador
-			include('controladores/controlador. .php');
+			include('controladores/controlador.participa.php');
 			break;
 
 			case '6':
 			//Panel de publicaciones
-			include('controladores/controlador. .php');
+			include('controladores/controlador.ludiblog.php');
 			break;
 
 			case 'default':
@@ -87,7 +87,7 @@ session_start();
 	}
 	else{
 		//Aquí se incluyen todos los controladores del index.
-		include('controladores/controlador.login.php');
+		include('controladores/controlador.home.php');
 	}
 
 	?>
@@ -108,18 +108,33 @@ elseif(isset($_GET['page'])){
 	switch($_GET['page']){
 
 		case '1':
-		//formulario de pueba
-		include('vistas/modulos/galeria.php');
+		//Impacto
+		include('vistas/modulos/impacto.php');
 		break;
 
 		case '2':
-		//
-		include('vistas/modulos/.php');
+		//Programas
+		include('vistas/modulos/programas.php');
 		break;
 
 		case '3':
-		// 
-		include('vistas/modulos/.php');
+		// Nosotros
+		include('vistas/modulos/nosotros.php');
+		break;
+
+		case '4':
+		// Dona
+		include('vistas/modulos/dona.php');
+		break;
+
+		case '5':
+		//Participa
+		include('vistas/modulos/participa.php');
+		break;
+
+		case '6':
+		// Ludiblog
+		include('vistas/modulos/ludiblog.php');
 		break;
 
 		
@@ -129,10 +144,6 @@ elseif(isset($_GET['page'])){
 else{
 	
 	include('vistas/modulos/home.php');
-	include('vistas/modulos/somos.php');
-	include('vistas/modulos/novelas.php');
-	include('vistas/modulos/galeria.php');
-	include('vistas/modulos/contacto.php');
 
 }
 
