@@ -59,4 +59,55 @@
   height: 90vh !important;
 }
 
+/* ------- Programas sociales -------*/
+.programasPortada{
+    height: 100vh !important;
+    width: 98.8vw !important;
+    background-color: #FFFFFF
+}
+
+.programas{
+  height: 100vh !important;
+  width: 98.8vw !important;
+  background-color: #7E4186
+}
+
+.logoProgramasSociales{
+    height: 90vh !important;
+}
+
+
+/* ------- Dona -------*/
+.donaPortada{
+  height: 100vh !important;
+  width: 98.8vw !important;
+  background-color: #FFFFFF
+}
+
+.dona{
+height: 100vh !important;
+width: 98.8vw !important;
+background-color: #7E4186
+}
+
+.logoDona{
+  height: 90vh !important;
+}
+
+/* ------- LudiBlog -------*/
+.ludiBlogPortada{
+  height: 100vh !important;
+  width: 98.8vw !important;
+  background-color: #FFFFFF
+}
+
+.ludiBlog{
+height: 100vh !important;
+width: 98.8vw !important;
+background-color: #49B1BA
+}
+
+.logoLudiBlog{
+  height: 90vh !important;
+}
 /*# sourceMappingURL=app.css.map */
