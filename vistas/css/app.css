@@ -53,6 +53,7 @@
   height: 100vh !important;
   width: 100vw !important;
   background-color: #FD6729;
+  color: #FFFF;
 }
 
 .logoImpacto {
@@ -110,4 +111,38 @@ background-color: #49B1BA
 .logoLudiBlog{
   height: 90vh !important;
 }
+.logosImpacto {
+  height: 90vh !important;
+}
+
+.participa {
+  height: 100vh !important;
+  width: 100vw !important;
+  background-color: #FD6729;
+  color: #FFFF;
+}
+
+.logoParticipa {
+  height: 90vh !important;
+}
+
+.logosParticipa {
+  height: 90vh !important;
+}
+
+.nosotros {
+  height: 100vh !important;
+  width: 100vw !important;
+  background-color: #49B1BA;
+  color: #FFFF;
+}
+
+.logoNosotros {
+  height: 90vh !important;
+}
+
+.logosNosotros {
+  height: 90vh !important;
+}
+
 /*# sourceMappingURL=app.css.map */
