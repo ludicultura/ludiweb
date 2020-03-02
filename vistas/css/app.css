@@ -58,61 +58,36 @@
 
 .logoImpacto {
   height: 90vh !important;
+  z-index: -1;
 }
 
-/* ------- Programas sociales -------*/
-.programasPortada{
-    height: 100vh !important;
-    width: 98.8vw !important;
-    background-color: #FFFFFF
-}
-
-.programas{
-  height: 100vh !important;
-  width: 98.8vw !important;
-  background-color: #7E4186
-}
-
-.logoProgramasSociales{
-    height: 90vh !important;
-}
-
-
-/* ------- Dona -------*/
-.donaPortada{
-  height: 100vh !important;
-  width: 98.8vw !important;
-  background-color: #FFFFFF
-}
-
-.dona{
-height: 100vh !important;
-width: 98.8vw !important;
-background-color: #7E4186
-}
-
-.logoDona{
-  height: 90vh !important;
-}
-
-/* ------- LudiBlog -------*/
-.ludiBlogPortada{
-  height: 100vh !important;
-  width: 98.8vw !important;
-  background-color: #FFFFFF
-}
-
-.ludiBlog{
-height: 100vh !important;
-width: 98.8vw !important;
-background-color: #49B1BA
-}
-
-.logoLudiBlog{
-  height: 90vh !important;
-}
 .logosImpacto {
   height: 90vh !important;
+}
+
+.logoMini {
+  height: 10vh !important;
+  width: 10vw !important;
+}
+
+.navegacionInferior {
+  width: 100vw !important;
+  background-color: #49B1BA;
+  color: #FFFF;
+  text-align: center;
+}
+
+.bordes {
+  border-left-style: solid;
+}
+
+.link-barra-inferior {
+  color: #FFFF;
+}
+
+.link-barra-inferior:hover {
+  color: #FFFF;
+  text-decoration: none;
 }
 
 .participa {
@@ -130,6 +105,31 @@ background-color: #49B1BA
   height: 90vh !important;
 }
 
+.logoMini {
+  height: 10vh !important;
+  width: 10vw !important;
+}
+
+.navegacionInferior {
+  width: 100vw !important;
+  background-color: #49B1BA;
+  color: #FFFF;
+  text-align: center;
+}
+
+.bordes {
+  border-left-style: solid;
+}
+
+.link-barra-inferior {
+  color: #FFFF;
+}
+
+.link-barra-inferior:hover {
+  color: #FFFF;
+  text-decoration: none;
+}
+
 .nosotros {
   height: 100vh !important;
   width: 100vw !important;
@@ -142,6 +142,82 @@ background-color: #49B1BA
 }
 
 .logosNosotros {
+  height: 90vh !important;
+}
+
+.logoMini {
+  height: 10vh !important;
+  width: 10vw !important;
+}
+
+.navegacionInferior {
+  width: 100vw !important;
+  background-color: #49B1BA;
+  color: #FFFF;
+  text-align: center;
+}
+
+.bordesCom {
+  border-left-style: solid;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: #ffff;
+}
+
+.link-barra-inferior {
+  color: #FFFF;
+}
+
+.link-barra-inferior:hover {
+  color: #FFFF;
+  text-decoration: none;
+}
+
+.programasPortada {
+  height: 100vh !important;
+  width: 98.8vw !important;
+  background-color: #FFFFFF;
+}
+
+.programas {
+  height: 100vh !important;
+  width: 98.8vw !important;
+  background-color: #7E4186;
+}
+
+.logoProgramasSociales {
+  height: 90vh !important;
+}
+
+.donaPortada {
+  height: 100vh !important;
+  width: 98.8vw !important;
+  background-color: #FFFFFF;
+}
+
+.dona {
+  height: 100vh !important;
+  width: 98.8vw !important;
+  background-color: #7E4186;
+}
+
+.logoDona {
+  height: 90vh !important;
+}
+
+.ludiBlogPortada {
+  height: 100vh !important;
+  width: 98.8vw !important;
+  background-color: #FFFFFF;
+}
+
+.ludiBlog {
+  height: 100vh !important;
+  width: 98.8vw !important;
+  background-color: #49B1BA;
+}
+
+.logoLudiBlog {
   height: 90vh !important;
 }
 
