@@ -1,16 +1,17 @@
 <section class="participa d-flex flex-column justify-content-center align-items-center">
-    <h1 class="text-center">¡PARTICIPA!</h1>
+    </br>
+    <p class="text-center" class="titulo">¡PARTICIPA!</p>
     <img class="logoParticipa" src="vistas/img/imagen_participa.svg">
 </section>
 
 <section class="participa  d-flex flex-column justify-content-center align-items-center">
-  <h1 class="text-center">¡PARTICIPA!</h1>
-  <p>"Queremos conocerte"</p>
+  <p class="text-center">¡PARTICIPA!</p>
+  <h2>Queremos conocerte</h2>
 </section>
 
 <section class="participa  d-flex flex-column justify-content-center align-items-center">
-  <h1 class="text-center">¡GRACIAS!</h1>
-  <p>"Tu respuesta ha sido enviada"</p>
+  <p class="text-center">¡GRACIAS!</p>
+  <h2 class="text-center">Tu respuesta ha sido enviada</h2>
 </section>
 
 <section class="navegacionInferior">
@@ -18,7 +19,7 @@
       <div class="col-sm-4">
         <a class="link-barra-inferior" href="?page=5">
           <p>
-          <h5 >Participa</h5>    
+          <p >Participa</h5>    
         </a>
       </div>
       <div class="col-sm-4 bordes">
@@ -29,7 +30,7 @@
       <div class="col-sm-4 bordes">
         <a class="link-barra-inferior" href="?page=4">
           <p>
-          <h5 >Dona</h5>    
+          <p >Dona</h5>    
         </a>
       </div>
     </div>

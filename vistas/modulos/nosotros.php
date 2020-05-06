@@ -1,16 +1,20 @@
 <section class="nosotros d-flex flex-column justify-content-center align-items-center">
-    <h1 class="text-center">NOSOTROS</h1>
-    <img class="logoNosotros" src="">
+    </br>
+    <p class="text-center">NOSOTROS</p>
+    <img class="logoNosotros" src="vistas/img/imagen_nosotros.svg">
 </section>
 
 <section class="nosotros  d-flex flex-column justify-content-center align-items-center">
-  <h1 class="text-center">NOSOTROS</h1>
-  <p>Somos expertos en el diseño de juegos, actividades de integración y acciones de responsabilidad social</p>
-  <p>"Transformamos a México con arte, cultura y diversión"</p>
+  </br>
+  </br>
+  <p class="text-center">NOSOTROS</p>
+  <h2 class="text-center">Somos expertos en el</br> diseño de juegos,</br> actividades de</br> integración y acciones</br> de responsabilidad social.</h2>
+  <h2 class="text-center">"Transformamos a México</br> con arte, cultura y diversión"</h2>
 </section>
 
 <section class="nosotros  d-flex flex-column justify-content-center align-items-center">
-  <h1 class="text-center">NUESTROS ALIADOS</h1>
+  </br>
+  <p class="text-center">NUESTROS</br>ALIADOS</p>
   <img class="logosNosotros" src="">
 </section>
 
@@ -19,7 +23,7 @@
       <div class="col-sm-4 bordesCom">
         <a class="link-barra-inferior" href="?page=3">
           <p>
-          <h5 >Nosotros</h5>    
+          <p >Nosotros</h5>    
         </a>
       </div>
       <div class="col-sm-4 bordesCom">
@@ -30,7 +34,7 @@
       <div class="col-sm-4 bordesCom">
         <a class="link-barra-inferior" href="?page=5">
           <p>
-          <h5 >Participa</h5>    
+          <p >Participa</h5>    
         </a>
       </div>
     </div>

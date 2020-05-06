@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'DIN Round Pro';
+    src: url('DINRoundPro.woff2') format('woff2'),
+        url('DINRoundPro.woff') format('woff'),
+        url('DINRoundPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

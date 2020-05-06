@@ -5,7 +5,7 @@
 
 <section class="home d-flex flex-column justify-content-center align-items-center">
   <a href="?page=1">
-    <img class="logosPrincipales" src="vistas/img/impacto.png">
+    <img class="logosPrincipales" src="vistas/img/Impacto.svg">
   </a>
 </section>
 
@@ -17,7 +17,7 @@
 
 <section class="home d-flex flex-column justify-content-center align-items-center">
  <a href="?page=3">
-  <img class="logosPrincipales" src="vistas/img/nosotros.png">
+  <img class="logosPrincipales" src="vistas/img/Nosotros.svg">
   </a>
 </section>
 
@@ -29,7 +29,7 @@
 
 <section class="home d-flex flex-column justify-content-center align-items-center">
  <a href="?page=5">
-  <img class="logosPrincipales" src="vistas/img/participa.png">
+  <img class="logosPrincipales" src="vistas/img/Participa.svg">
   </a>
 </section>
 
